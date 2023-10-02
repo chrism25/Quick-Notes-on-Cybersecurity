@@ -1,0 +1,7 @@
+# <p align="center"> Spyware can infect your phone through Advertisements 
+
+* As we all know we all leave digital traces everytime we use the internet. All of this data is constantly used to determine which kind of advertisement we receive.
+* However, it seems like the tech company “Insanet” has developed a way to deliver spyware through online ad networks. Spyware is much more aggressive and obviously malicious than those pesky advertisements. These advertisements now can become trojan horses that can be installed into a phone without the owner’s knowledge, much more like NSO’s iphone-hacking Pegasus, which took advantage of vulnerabilities in Apple’s iOS.
+* Obviously, the fact that it is hidden in an app, makes this spyware “Sherlock” more dangerous, and it can infect Androids, iPhones and Windows computers. Sherlock seems to be able to narrow its target using phone features like location and demographics among others. 
+* Once the spyware is installed, it can record keystrokes, use the camera, use some tracking features and probably more before sending the collected data. An ad unsuspectedly being able to deliver data capture/transmission, monitoring and infiltration features is definitely something to be cautious of.
+* Moreover, it seems like this spyware was legally authorized by the Israeli government for sale to a broader audience. Which means that almost anyone could be Sherlock’s next victim. The only piece of good news about Insanet’s spyware, is that it cost around $6.4 million for a single infection.   
